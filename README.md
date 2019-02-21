@@ -14,3 +14,11 @@ You'll need [Racket][2] and [Rlwrap][3] installed. Racket is a modern, Scheme-li
 
 [2]: http://racket-lang.org/
 [3]: https://github.com/hanslub42/rlwrap
+
+## Some instructions?
+
+To load a file, go to the command line and type:
+
+`$ rlwrap racket -f chapter1.rkt -i`
+
+- `-f` tells racket to load file `chapter1.rkt` and `-i` tells racket to load it in the prompt.
