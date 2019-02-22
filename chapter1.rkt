@@ -10,4 +10,4 @@
 
 (define l "Hello world from scheme")
 
-(cat? l)
+(define y "hello" "world" "from" "react")
